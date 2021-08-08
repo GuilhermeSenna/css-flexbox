@@ -1,2 +1,2 @@
 # css-flexbox
- Treino com CSS utilizando flexbox
+ Treino em CSS utilizando flexbox
